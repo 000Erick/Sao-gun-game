@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SaniControlle
+  m_Controller: {fileID: 9100000, guid: 08451aba624b2dd478151c03eb48a823, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b259f3cadc6b95f4f8d7bd68b013176a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aeb1150f555b7184aae71994fc3d7d63, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 55b55e5447a9882489bc9850b01f10ad, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7a070450c5f957a42a85a9334512d161, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 04492d9860980044f9849b2fd1ea9cd3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 25e2676485efd4a42a9b4296a8ec2554, type: 2}
